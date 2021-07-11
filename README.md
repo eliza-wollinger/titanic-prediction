@@ -1,5 +1,11 @@
-# Titanic Prediction
+# ![Titanic Prediction Banner](https://user-images.githubusercontent.com/57842220/125179208-af8b9e80-e1c2-11eb-9242-12b31bffe16a.png)
 
-This example was create for the introductory data science course at Digital Innovation One.
+This program was created in order to better understand, in an introductory way, how programming focused on data science works. Developed for the Digital Innovation One course.
 
-The model aims to predict whether a person would survive the disaster that occurred on the Titanic. 🚣🏻‍♀️
+In it there is a model where it is possible to predict the chances that a certain person had to survive the Titanic disaster. 🚣🏻‍♀️
+
+
+## ⚙️ Tools:
+
+- 💻 Google Colab
+- 🐍 Python (Numpy, Pandas and Sklearn)
