@@ -15,8 +15,11 @@ The primary objective of this program is to introduce the fundamental concepts a
 To create this project and perform data analysis, we used the following tools and libraries:
 
 🐍 Python: The primary programming language used for data manipulation and model development.
+
 📊 Numpy: A fundamental library for numerical computations in Python.
+
 🐼 Pandas: A versatile data analysis library for data manipulation and analysis.
+
 🤖 Scikit-Learn (Sklearn): A robust library for machine learning, offering tools for predictive modeling, classification, and more.
 
 ## Getting Started
